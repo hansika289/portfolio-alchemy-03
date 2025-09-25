@@ -1,6 +1,6 @@
 import { Code, Palette, Smartphone, Database, Globe, Zap } from 'lucide-react';
 import { Progress } from '@/components/ui/progress';
-import profileImage from '@/assets/profile-placeholder.jpg';
+import profileImage from '@/assets/cloud.jpg';
 
 const AboutSection = () => {
   const skills = [
