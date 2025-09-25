@@ -35,7 +35,7 @@ const HeroSection = () => {
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4">
               <span className="block text-foreground">Hello, I'm</span>
               <span className="block gradient-text animate-gradient-shift bg-gradient-to-r from-primary via-secondary to-accent bg-[length:200%_auto]">
-                Alex Johnson
+                Derangula Hansika
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
